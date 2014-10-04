@@ -468,7 +468,7 @@ margin on the iframe, cause it breaks stuff. */
    4. General - The main styles for the the theme
    ========================================================================== */
 
-.pixel{
+#pixel {
     width: 30px;
     height: 30px;
     background: #ce2027;
