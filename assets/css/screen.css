@@ -481,7 +481,7 @@ margin on the iframe, cause it breaks stuff. */
     overflow: hidden;
 }
 
-.home-template .main-header{
+.home-template .main-header, .tag-template .main-header{
     background-color: #071f23;
     background-size: initial;
 }
