@@ -483,7 +483,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .home-template .main-header{
     background-color: #071f23;
-    background-size: none;
+    background-size: initial;
 }
 
 .main-header .inner {
